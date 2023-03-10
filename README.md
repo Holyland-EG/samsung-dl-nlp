@@ -1,4 +1,3 @@
-# sumsung_dl_nlp
-stepik
+# Samsung DL NLP
 
-NLP course by samsung 
+NLP course by samsung (stepik)
